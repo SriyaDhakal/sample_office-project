@@ -1,0 +1,10 @@
+.banner{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.banner-image{
+    width: 635px;
+    height: 636px;
+}
